@@ -1,5 +1,7 @@
 # babel-plugin-transform-dev-prod-expression
 
+[![Build Status](https://travis-ci.org/iAziz786/babel-plugin-transform-dev-prod-expression.svg?branch=master)](https://travis-ci.org/iAziz786/babel-plugin-transform-dev-prod-expression)
+
 A babel plugin to transform `__DEV__` and `__PROD__` expressions.
 
 ### What magic it does?
