@@ -1,0 +1,7 @@
+language: node_js
+
+nodei_js:
+  - '11'
+  - '10'
+  - '9'
+  - '8'
