@@ -1,5 +1,5 @@
 {
-  "name": "@iAziz786/babel-plugin-transform-dev-prod-expression",
+  "name": "@iaziz786/babel-plugin-transform-dev-prod-expression",
   "version": "0.1.0",
   "description": "A babel plugin to transform __DEV__ and __PROD__ expressions",
   "main": "lib/index.js",
