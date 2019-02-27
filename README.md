@@ -5,7 +5,13 @@
 
 A babel plugin to transform `__DEV__` and `__PROD__` expressions.
 
-### What magic it does?
+## Installation
+
+```sh
+yarn add @iaziz786/babel-plugin-transform-dev-prod-expression
+```
+
+## What magic it does?
 
 It can convert this:
 
