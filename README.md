@@ -21,7 +21,7 @@ if (__DEV__) {
 }
 
 if (__PROD__) {
-  // some script to run in development mode
+  // some script to run in production mode
 }
 ```
 
@@ -29,7 +29,7 @@ Into this:
 
 ```js
 if (process.env.NODE_ENV === 'development') {
-  // some script to run in production mode
+  // some script to run in development mode
 }
 
 if (process.env.NODE_ENV === 'production') {
